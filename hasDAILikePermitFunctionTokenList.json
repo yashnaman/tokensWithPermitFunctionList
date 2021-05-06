@@ -1,0 +1,76 @@
+{
+    "name": "hasDAILikePermitFunction",
+    "logoURI": "",
+    "keywords": [
+        "defi",
+        "permit",
+        "EIP2612"
+    ],
+    "timestamp": "",
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
+            "name": "Golem",
+            "symbol": "GLM",
+            "decimals": 18,
+            "logoURI": "https: //assets.coingecko.com/coins/images/542/thumb/Golem_Submark_Positive_RGB.png?1606392013"
+        },
+        {
+            "chainId": 1,
+            "address": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
+            "name": "xDAI Stake",
+            "symbol": "STAKE",
+            "decimals": 18,
+            "logoURI": "https: //assets.coingecko.com/coins/images/11061/thumb/xdai.png?1587714165"
+        },
+        {
+            "chainId": 1,
+            "address": "0x06af07097c9eeb7fd685c692751d5c66db49c215",
+            "name": "Chai",
+            "symbol": "CHAI",
+            "decimals": 18,
+            "logoURI": "https: //assets.coingecko.com/coins/images/10147/thumb/CHAI.png?1576467289"
+        },
+        {
+            "chainId": 1,
+            "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "name": "Dai",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https: //assets.coingecko.com/coins/images/9956/thumb/dai-multi-collateral-mcd.png?1574218774"
+        },
+        {
+            "chainId": 1,
+            "address": "0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd",
+            "name": "Hakka Finance",
+            "symbol": "HAKKA",
+            "decimals": 18,
+            "logoURI": "https: //assets.coingecko.com/coins/images/12163/thumb/Hakka-icon.png?1597746776"
+        },
+        {
+            "chainId": 1,
+            "address": "0x2b4200a8d373d484993c37d63ee14aee0096cd12",
+            "name": "USDFreeLiquidity",
+            "symbol": "USDFL",
+            "decimals": 18,
+            "logoURI": "https: //assets.coingecko.com/coins/images/13697/thumb/usdfl.png?1610980328"
+        },
+        {
+            "chainId": 1,
+            "address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+            "name": "Rai Reflex Index",
+            "symbol": "RAI",
+            "decimals": 18,
+            "logoURI": "https: //assets.coingecko.com/coins/images/14004/thumb/RAI-logo-coin.png?1613592334"
+        },
+        {
+            "chainId": 1,
+            "address": "0xc3589f56b6869824804a5ea29f2c9886af1b0fce",
+            "name": "Honey",
+            "symbol": "HNY",
+            "decimals": 18,
+            "logoURI": "https: //assets.coingecko.com/coins/images/12895/thumb/hnys.png?1614100588"
+        }
+    ]
+}
